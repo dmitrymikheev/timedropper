@@ -1,0 +1,19 @@
+{
+  "name": "timedropper",
+  "version": "1.0.0",
+  "description": "timedropper is a jQuery UI timepicker. Manage time input fields in a standard form. Focus on the input to open an small interactive timepicker.",
+  "main": "timedropper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrymikheev/timedropper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitrymikheev/timedropper/issues"
+  },
+  "homepage": "https://github.com/dmitrymikheev/timedropper#readme"
+}
